@@ -10,3 +10,7 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+# Lia's chosen quote
+
+> To boldy go where no man has gone before...
