@@ -12,5 +12,7 @@ will see the rendered markdown file.
 See `complete` branch for an example.
 
 # Lia's chosen quote
-Does this work?
+
 > To boldy go where no man has gone before...
+
+William Shatner [(Look at number 6)](http://mentalfloss.com/article/50607/origins-11-famous-star-trek-lines)
