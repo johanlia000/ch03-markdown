@@ -16,4 +16,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
 # atom + filename
+
+You can use the `atom` command when you have a file that you want to open in the interface Atom. Let's say you have a file to open named README.md. In your terminal type `atom README.md` and it will open that file in Atom.
+
+### Uses for the atom command
+* nothing
+* nothing
