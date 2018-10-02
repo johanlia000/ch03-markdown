@@ -13,4 +13,6 @@ See `complete` branch for answers.
 
 | Course Number | Course Title | Instructor |
 |---------------|:-------------|:-----------|
-| INFO 201      | Informatics  | Ott Toomet |
+| **INFO 201**      | *Informatics*  | Ott Toomet |
+|**CSE 142**| *Computer Programming*| Schafer|
+|**STAT 390**|*Statistics for Engineering and Science*| Brumback|
